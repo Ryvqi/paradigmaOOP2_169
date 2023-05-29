@@ -47,7 +47,7 @@ public:
 };
 
 int main() {
-	pelajar saya("saya kulo", "Laki-laki", "belajarcpp");
+	pelajar saya("Saya Uulo", "Laki-laki", "belajarcpp");
 	cout << saya.perkenalan();
 	return 0;
 }
