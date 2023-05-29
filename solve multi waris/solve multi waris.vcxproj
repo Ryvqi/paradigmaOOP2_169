@@ -21,10 +21,9 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{e7cc33cc-f57f-445e-8279-be7c69c628e6}</ProjectGuid>
-    <RootNamespace>paradigmaOOP2169</RootNamespace>
+    <ProjectGuid>{ccebe4d6-b060-4eda-a98a-4a639d02d1a8}</ProjectGuid>
+    <RootNamespace>solvemultiwaris</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
-    <ProjectName>multipewarisan</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -128,7 +127,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="paradigmaOOP2_169.cpp" />
+    <ClCompile Include="solve multi waris.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
